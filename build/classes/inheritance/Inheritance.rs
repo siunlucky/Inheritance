@@ -1,0 +1,3 @@
+inheritance.HeroStrength
+inheritance.Inheritance
+inheritance.Hero
